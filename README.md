@@ -8,7 +8,7 @@ Getting started with HTML
 
 ## Instructions
 
-- [ ] Fork this repository and clone it to your `critical-web-design` folder on your machine.
+- [x] Fork this repository and clone it to your `critical-web-design` folder on your machine.
 
 
 #### Code
