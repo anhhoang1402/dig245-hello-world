@@ -20,7 +20,7 @@ Getting started with HTML
 - [x] What are your goals in this course?
 - [x] In 100-150 words, summarize the [learn-computing](https://github.com/omundy/learn-computing) activity you did with your group.
 - [x] Select 3 projects (website or web application) you consider to be interesting for artistic, cultural, or other reasons. List each project with its title, a link to it, and 2–3 sentences describing the project and why it is remarkable.
-- [ ] Add an HTML comment explaining if any part of this assignment was difficult.
+- [x] Add an HTML comment explaining if any part of this assignment was difficult.
 
 
 #### Publish
